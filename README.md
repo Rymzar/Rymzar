@@ -16,7 +16,7 @@ I am a Java Developer :coffee:.
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rymzar&theme=dark)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rymzar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rymzar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
